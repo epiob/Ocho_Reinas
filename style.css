@@ -1,0 +1,53 @@
+.center {
+    text-align: center;
+}
+
+.section-queen {
+    display: flex;
+    justify-content: center;
+}
+
+#result {
+    font-size: 3em;
+    text-transform: capitalize;
+}
+
+.reina1 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina2 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina3 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina4 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina5 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina6 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina7 {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.reina8 {
+    border: 1px solid black;
+    margin: 5px;
+}
